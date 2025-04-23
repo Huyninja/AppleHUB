@@ -5,7 +5,7 @@ AppleHub is a sleek, customizable UI library for Roblox scripts that provides a 
 ## Booting the Library
 
 ```lua
-local Apple = 
+local Apple =  loadstring(game:HttpGet('https://sirius.menu/rayfield'))()
 ```
 
 ## Getting Started
