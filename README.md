@@ -2,6 +2,12 @@
 
 AppleHub is a sleek, customizable UI library for Roblox scripts that provides a variety of UI elements with a modern design.
 
+## Booting the Library
+
+```lua
+local Apple = 
+```
+
 ## Getting Started
 
 ### Setup
